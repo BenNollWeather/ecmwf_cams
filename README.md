@@ -1,4 +1,4 @@
 Tracking global smoke and dust plumes.
 
-**Global wildfire smoke coverage**
-![Image](https://github.com/BenNollWeather/snowfall_anomaly/blob/main/snowfall_anomaly.png?raw=true)
+**Global wildfire smoke coverage over the next 5 days**
+![Image](https://github.com/BenNollWeather/ecmwf_cams/blob/master/bcaod550_globe_max.png?raw=true)
